@@ -1,0 +1,45 @@
+C:\Users\jiaxy\source\repos\Homework4\OrderForm\bin\Debug\OrderForm.exe.config
+C:\Users\jiaxy\source\repos\Homework4\OrderForm\bin\Debug\OrderForm.exe
+C:\Users\jiaxy\source\repos\Homework4\OrderForm\bin\Debug\OrderForm.pdb
+C:\Users\jiaxy\source\repos\Homework4\OrderForm\bin\Debug\ordertest.exe
+C:\Users\jiaxy\source\repos\Homework4\OrderForm\bin\Debug\ordertest.pdb
+C:\Users\jiaxy\source\repos\Homework4\OrderForm\bin\Debug\ordertest.exe.config
+C:\Users\jiaxy\source\repos\Homework4\OrderForm\obj\Debug\OrderForm.csprojAssemblyReference.cache
+C:\Users\jiaxy\source\repos\Homework4\OrderForm\obj\Debug\OrderForm.Properties.Resources.resources
+C:\Users\jiaxy\source\repos\Homework4\OrderForm\obj\Debug\OrderForm.csproj.GenerateResource.cache
+C:\Users\jiaxy\source\repos\Homework4\OrderForm\obj\Debug\OrderForm.csproj.CoreCompileInputs.cache
+C:\Users\jiaxy\source\repos\Homework4\OrderForm\obj\Debug\OrderForm.csproj.CopyComplete
+C:\Users\jiaxy\source\repos\Homework4\OrderForm\obj\Debug\OrderForm.exe
+C:\Users\jiaxy\source\repos\Homework4\OrderForm\obj\Debug\OrderForm.pdb
+C:\Users\jiaxy\source\repos\Homework4\OrderForm\obj\Debug\OrderForm.FormMain.resources
+C:\Users\jiaxy\source\repos\Homework4\OrderForm\obj\Debug\OrderForm.FormEdit.resources
+C:\压缩文件\ORDER\OrderForm\bin\Debug\OrderForm.exe.config
+C:\压缩文件\ORDER\OrderForm\bin\Debug\OrderForm.exe
+C:\压缩文件\ORDER\OrderForm\bin\Debug\OrderForm.pdb
+C:\压缩文件\ORDER\OrderForm\bin\Debug\ordertest.exe
+C:\压缩文件\ORDER\OrderForm\bin\Debug\ordertest.pdb
+C:\压缩文件\ORDER\OrderForm\bin\Debug\ordertest.exe.config
+C:\压缩文件\ORDER\OrderForm\obj\Debug\OrderForm.csprojAssemblyReference.cache
+C:\压缩文件\ORDER\OrderForm\obj\Debug\OrderForm.FormMain.resources
+C:\压缩文件\ORDER\OrderForm\obj\Debug\OrderForm.FormEdit.resources
+C:\压缩文件\ORDER\OrderForm\obj\Debug\OrderForm.Properties.Resources.resources
+C:\压缩文件\ORDER\OrderForm\obj\Debug\OrderForm.csproj.GenerateResource.cache
+C:\压缩文件\ORDER\OrderForm\obj\Debug\OrderForm.csproj.CoreCompileInputs.cache
+C:\压缩文件\ORDER\OrderForm\obj\Debug\OrderForm.csproj.CopyComplete
+C:\压缩文件\ORDER\OrderForm\obj\Debug\OrderForm.exe
+C:\压缩文件\ORDER\OrderForm\obj\Debug\OrderForm.pdb
+C:\c# Homework\homework8\OrderForm\bin\Debug\OrderForm.exe.config
+C:\c# Homework\homework8\OrderForm\bin\Debug\OrderForm.exe
+C:\c# Homework\homework8\OrderForm\bin\Debug\OrderForm.pdb
+C:\c# Homework\homework8\OrderForm\bin\Debug\ordertest.exe
+C:\c# Homework\homework8\OrderForm\bin\Debug\ordertest.pdb
+C:\c# Homework\homework8\OrderForm\bin\Debug\ordertest.exe.config
+C:\c# Homework\homework8\OrderForm\obj\Debug\OrderForm.csprojAssemblyReference.cache
+C:\c# Homework\homework8\OrderForm\obj\Debug\OrderForm.FormMain.resources
+C:\c# Homework\homework8\OrderForm\obj\Debug\OrderForm.FormEdit.resources
+C:\c# Homework\homework8\OrderForm\obj\Debug\OrderForm.Properties.Resources.resources
+C:\c# Homework\homework8\OrderForm\obj\Debug\OrderForm.csproj.GenerateResource.cache
+C:\c# Homework\homework8\OrderForm\obj\Debug\OrderForm.csproj.CoreCompileInputs.cache
+C:\c# Homework\homework8\OrderForm\obj\Debug\OrderForm.csproj.CopyComplete
+C:\c# Homework\homework8\OrderForm\obj\Debug\OrderForm.exe
+C:\c# Homework\homework8\OrderForm\obj\Debug\OrderForm.pdb
